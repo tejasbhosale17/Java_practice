@@ -1,0 +1,2 @@
+Hello World! This is File Handling Example
+I am Executing File handing Through hard coded values for strings
